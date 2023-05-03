@@ -1,7 +1,9 @@
 ## Olá, meu nome é Lucas e eu sou um entusiasta por tecnologia :)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasilvr)](https://github.com/anuraghazra/github-readme-stats)
-ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
+<div>
+  <a href="https://github.com/lucasilvr">
+   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=lucasilvr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasilvr&layout=compact&langs_count=16&theme=dark"/>
 
 
 - 🔭 I’m currently working on ...
