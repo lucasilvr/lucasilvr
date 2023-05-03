@@ -1,6 +1,7 @@
 ## Olá, meu nome é Lucas e eu sou um entusiasta por tecnologia :)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasilvr)](https://github.com/anuraghazra/github-readme-stats)
+ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
 
 
 - 🔭 I’m currently working on ...
