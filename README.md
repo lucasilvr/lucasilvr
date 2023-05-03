@@ -1,9 +1,9 @@
 ## Olá, meu nome é Lucas e eu sou um entusiasta por tecnologia :)
 
-<div>
-  <a href="https://github.com/lucasilvr">
-   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=lucasilvr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasilvr&layout=compact&langs_count=16&theme=dark"/>
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasilvr&theme=dark)](https://github.com/lucasilvr/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasilvr&theme=dark&layout=compact)](https://github.com/lucasilvr/github-readme-stats)
+
+
 
 
 - 🔭 I’m currently working on ...
