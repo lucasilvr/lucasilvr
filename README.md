@@ -1,7 +1,7 @@
 Hi! My name is Lucas and i love technology :)<br/>
 • I'm 20 years old.<br/>
 • I'm a student of systems analysis and development.<br/>
-• I'm studying the languages: Java, Kotlin, JavaScript and C, but I've already had contact with some others.<br/>
+• I'm studying the languages: C, Java and Javascript, but I've already had contact with some others.<br/>
 • I like to always be learning new things.<br/>
 
 <div>
