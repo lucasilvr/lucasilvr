@@ -4,7 +4,6 @@ Hi! My name is Lucas and i love technology :)<br/>
 • I like to always be learning new things.<br/>
 
 <div>
- <a href="https://twitter.com/lucasilvr" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   <a href = "mailto:lucassilveira07.ls@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-silveira-74249423a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <img align="right" alt="lucas-pic" height="150" style="border-radius:50px;" src="https://media.tenor.com/T90erSIZ41sAAAAC/harry-potter-cute.gif">
