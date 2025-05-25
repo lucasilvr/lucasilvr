@@ -15,7 +15,7 @@
   ##
   
   <div style="display: flex; gap: 10px; margin-top: 5px;">
-    <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank">
+    <a href="https://www.linkedin.com/in/lucas-silveira-74249423a/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href="mailto:lucassilveira07.ls@gmail.com" target="_blank">
